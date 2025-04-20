@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sleep Disorder Prediction
 
 ## 📌 Project Overview
@@ -181,5 +181,4 @@ python sleep_disorder_analysis.py
 I’m **Diksha Yadav** —  
 💻 Data Analyst | 📊 Power BI | 🐍 Python | 📌 SQL Enthusiast  
 Connect with me 
->>>>>>> 0697ae1ea62d59e6b77a2110bd7c6e4a3eaf1f30
 
